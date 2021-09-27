@@ -1,0 +1,9 @@
+#header-img {
+  height: 20vh;
+}
+div ul li a {
+  text-decoration: none;
+  padding: 2rem;
+  color: white;
+  font-weight: 600;
+}
